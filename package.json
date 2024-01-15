@@ -1,0 +1,24 @@
+{
+  "name": "sql-cypress",
+  "version": "1.0.0",
+  "description": "test data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testmachine19/sql-cypress.git"
+  },
+  "author": "V Vorobev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testmachine19/sql-cypress/issues"
+  },
+  "homepage": "https://github.com/testmachine19/sql-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2",
+    "mysql": "^2.18.1"
+  }
+}
